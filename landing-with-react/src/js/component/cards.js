@@ -1,6 +1,6 @@
 import React from "react";
 
-function Cards(props) {
+export function Cards(props) {
     return (
         <div className="row text-center">
 
